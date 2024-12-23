@@ -13,7 +13,7 @@ arxiv=ArxivQueryRun(api_wrapper=arxiv_api_wrapper)
 
 search=DuckDuckGoSearchRun(name="Search")
 
-st.title("🔎 LangChain - Chat with search")
+st.title("🔎 LangChain - Chat with search here")
 
 
 st.sidebar.title("Settings")
